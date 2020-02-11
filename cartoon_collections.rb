@@ -5,7 +5,7 @@ def roll_call_dwarves(array)
     puts "#{index + 1} #{item}" 
   }
   
-  puts "this is x #{x}"
+  # puts "this is x #{x}"
   
 end
 
