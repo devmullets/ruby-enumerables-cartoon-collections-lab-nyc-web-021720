@@ -14,7 +14,8 @@ end
 
 def long_planeteer_calls(array)
   
-  array.collect { |short| short.length > 4 }
+  x = array.collect { |short| short.length > 4 }
+  puts x
   
 end
 
